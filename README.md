@@ -12,10 +12,10 @@ Order of running:
 HPC access was provided by the Medical University of Lodz within the Digital Medicine Center (MULDiMediC) project (2023/ABM/02/00009) financed by Medical Research Agency in Poland.
 
 The code was executed on Docker, using rnakato/ShortCake (https://github.com/rnakato/ShortCake) with edits as per .ipynb first cells.
-No data is deposited in this GitHub. All required data available as per the manuscript section (Data availability).
+No data is deposited in this GitHub. All required data available as per the manuscript section (Data availability; https://doi.org/10.48804/CBE1UC).
 
 For questions regarding code execution contact jj.chrzanowski1[at]gmail.com
 
 For other details, see the manuscript.
 
-DOI: [to be added]
+DOI: 10.1007/s00125-026-06750-1
